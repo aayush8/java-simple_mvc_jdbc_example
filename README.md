@@ -1,7 +1,7 @@
 # java-simple_mvc_jdbc_example
 Small java code to retreive data from database using jdbc connector and displaying it in table using MVC pattern
 
-I  used following sql commands
+I  used following sql commands to create database and insert data to it at first
 
 CREATE DATABASE 'jdbc';
 USE 'jdbc';
